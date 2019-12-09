@@ -1,0 +1,10 @@
+Q1. How can we create an iterator object from a list?
+a) Bypassing the given list to the iter() function
+
+Q2. If the function contains at least of one “yield” statement, then it becomes ______
+b) a generator function
+
+Q3. What is the output of the code?
+b) 1 9
+
+Q4. What are the criteria that must be met to create closure in Python?
